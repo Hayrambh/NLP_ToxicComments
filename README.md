@@ -1,6 +1,6 @@
 # Toxic Comment Classification
 
-This project implements a machine learning model to classify toxic comments using Natural Language Processing (NLP) techniques. The model is designed to identify and categorize different types of toxic content in text data.
+This project implements a machine learning model to classify toxic comments using Natural Language Processing (NLP) techniques. The model is designed to identify and categorize different types of toxic content in text data. Dataset from: https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
 
 ## Project Overview
 
