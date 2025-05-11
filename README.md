@@ -28,7 +28,7 @@ To run this project, you'll need:
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone (https://github.com/Hayrambh/NLP_ToxicComments)
 ```
 
 2. Install the required dependencies:
